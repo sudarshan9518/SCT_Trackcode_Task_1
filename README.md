@@ -1,2 +1,18 @@
 # SCT_Trackcode_Task_1
-This is part of a task in an internship I'm doing. This is Task 1, where I'm creating a navigation bar and exploring my HTML and CSS skills.
+# Navigation Bar Project
+
+This is a simple navigation bar project created as part of an internship task.
+It is built using HTML and CSS to explore styling and layout techniques.
+
+## Features
+- Responsive navigation bar
+- Search bar with input field
+- User action icons (Profile, Wishlist, Bag)
+- Hover effects on navigation links
+
+## Technologies Used
+- HTML
+- CSS
+
+## Project Structure
+
